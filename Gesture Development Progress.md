@@ -15,7 +15,7 @@
 
 - [ ] Create Gesture Data Sheet / (Data Structure) Table for Contents Maker Reference
 
-  ![b API Access Gesture](C:\Users\815082\Documents\GitHub\Progress_Monitoring\Images\b API Access Gesture.png)
+  ![b API Access Gesture](Images/b API Access Gesture.png)
 
 - [ ] ★Confirm Contents Maker can access API Gesture Data
 
