@@ -2,12 +2,12 @@
 
 ### [2021-08-17]
 
-- [ ] TBA Design Documentation Sharing (Weekly Meeting)
+- [x] TBA Design Documentation Sharing (Weekly Meeting)
 
 ### [2021-08-18]
 
 - [ ] ★ConnectedSeatApiGesture Connection Testing
-- [ ] TBA Gesture Data Testing
+- [x] TBA Gesture Data Testing
 - [ ] TBA Gesture Data Deserialization
 - [ ] Gesture Data to ConnectedSeatApiGesture
 - [ ] How to Access ConnectedSeatApiGesture
