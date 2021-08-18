@@ -7,6 +7,7 @@
 ### [2021-08-18]
 
 - [ ] ★ConnectedSeatApiGesture Connection Testing
+- [ ] TBA Gesture Data Testing
 - [ ] TBA Gesture Data Deserialization
 - [ ] Gesture Data to ConnectedSeatApiGesture
 - [ ] How to Access ConnectedSeatApiGesture
