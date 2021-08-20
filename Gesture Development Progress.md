@@ -4,9 +4,9 @@
 
 - [x] TBA Design Documentation Sharing (Weekly Meeting)
 
-- [ ] > - Will wait for further instructions and will work on discussions on business use-cases for CES preparation.
-  >
+  > - Will wait for further instructions and will work on discussions on business use-cases for CES preparation.
   > - Shared shanghai motor show temperature device shipping cost. $1200(8000 Yuan)
+
 
 ### [2021-08-18]
 
@@ -14,19 +14,18 @@
 
 - [x] TBA Gesture Data Testing
 
-- [ ] > - If python based direction is difficult to implement, directional data will be implemented in Unity C#
-  >
+  > - If python based direction is difficult to implement, directional data will be implemented in Unity C#
   > - Python based status are much better since it does not use windows[deques].
 
 - [ ] TBA Gesture Data Deserialization
 
-- [ ] > Confirm existing data deserialization first.
+  > Confirm existing data deserialization first.
 
 - [x] Gesture Data to ConnectedSeatApiGesture
 
 - [x] How to Access ConnectedSeatApiGesture
 
-- [ ] > Issue encountered, system is stopping when operating with two Azure Kinects set to 30fps.
+  > Issue encountered, system is stopping when operating with two Azure Kinects set to 30fps.
   >
   > maximum is 15fps per azure kinect.
 
@@ -44,10 +43,11 @@
 
 - [x] Short meeting with Nick to get status update
 
-- [ ] > - TBA started business use-case discussion for CES2021 presentation
+  > TBA started business use-case discussion for CES2021 presentation
   >
-  > - TBA Nick Papa and Nick Flannery are exploring the shanghai motor show for modification feasibility.
-  >   - TBA capability to modify contents
+  > TBA Nick Papa and Nick Flannery are exploring the shanghai motor show for modification feasibility.
+  >
+  > - TBA capability to modify contents
 
 ### [2021-08-20]
 
