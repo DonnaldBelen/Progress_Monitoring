@@ -10,7 +10,7 @@
 
 ### [2021-08-18]
 
-- [ ] ★ConnectedSeatApiGesture Connection Testing
+- [x] ★ConnectedSeatApiGesture Connection Testing[Local Only - not via Control PC]
 
 - [x] TBA Gesture Data Testing
 
@@ -74,3 +74,103 @@
 
 - [ ] Data Analysis Request for Gesture Recognition.
 - [ ] ★Confirm Improved Gestures
+
+
+
+
+
+
+
+-----
+
+Issues:
+
+- Final Calibrated Gesture requires final calibration json.
+
+  > TBA and TBJ will temporary develop with similar environment
+  >
+  > the update the final implementation of gesture after the calibration json is finished.
+  >
+  > minor recalibration and config file adjustment is necessary.
+
+
+
+
+
+I/O Data in Repository.
+
+Docker
+
+Azure_kinect
+
+-cs_eye_line(empty)
+
+-cs_sitting_seat
+
+-cs_detect_gesture
+
+OS
+
+RoS2 distro
+
+ICP Repo source code
+
+-json creation
+
+
+
+Rosbag file
+
+
+
+Upcomming Support from:
+
+NTT ->C++;
+
+Fujitsu ->
+
+
+
+#### TBJ Conditions:
+
+- Business Trip conditions became more strict due to increase in COVID19 cases
+- Aichi Prefecture (state of emergency) - avoid outside prefecture trips.
+
+
+
+#### Gesture Development
+
+Repository for gesture branch
+
+```
+https://github.com/DonnaldBelen/FY2021_CS-toyota-boshoku.git
+```
+
+- Pointer Gesture
+  - Just output display (coordinate on screen).
+  - contents creator will overlay a pointer on the screen.
+
+
+
+##### Others:
+
+1. Nuralogix
+
+   - TBJ side has no update regarding the on-going research and development of new RRi device and/or algorithm.
+
+2. Lumepad / Tanvas
+
+3. motion gesture
+
+   - Currently available in Japan through Cornes Technologies Inc,.
+
+     Request for TBA to check their availability in the US and attendance to CES
+
+
+
+##### CES Items
+
+1. Business Use-cases
+2. Invitation (Will be coordinated with Sato-san's team)
+3. Booth location and layout (for discussion on succeeding meetings)
+4. Week 36 meeting might be converted to monthly(for confirmation with Kitagawa-san)
