@@ -58,17 +58,30 @@
 
 ### [2021-08-24]
 
-- [ ] Create Gesture Data Sheet / (Data Structure) Table for Contents Maker Reference
+- [x] Create Gesture Data Sheet / (Data Structure) Table for Contents Maker Reference
 
   ![b API Access Gesture](Images/b API Access Gesture.png)
 
 - [ ] ★Confirm Contents Maker can access API Gesture Data
 
-### [2021-08-27]
+#### [2021-08-27]
 
-- [ ] Share Data to TBA for Algorithm Update
-- [ ] Unity <-> Gesture Initial Functionality Test (Low Accuracy)
-- [ ] Collect Experiment Data for TBA Development 
+- [ ] ###### Share Data to TBA for Algorithm Update
+
+- [ ] ###### Unity <-> Gesture Initial Functionality Test (Low Accuracy)
+
+- [ ] ###### Collect Experiment Data for TBA Development 
+
+- [ ] Code Refactoring
+
+  - Remove non-necessary nodes
+  - Remove non-necessary libraries
+
+- [x] Submit target business trip days (TCL).
+
+### [2021-08-30]
+
+- [ ] Share the Gesture Development Status with Sakaguchi-san (Sanage)
 
 ### [2021-08-31]
 
