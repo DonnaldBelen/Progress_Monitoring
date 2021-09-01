@@ -13,7 +13,19 @@
 
 
 
-- [ ] Create Repository for Azure Kinect Branch of Source
-- [ ] CSV controlled Relax/Therapy Visualization
-- [ ] Add map to the Woven Alpha Project
-- [ ] Change Moox Prefab to E-Palette
+- [x] Create Repository for Azure Kinect Branch of Source
+- [x] CSV controlled Relax/Therapy Visualization
+- [x] Add map to the Woven Alpha Project
+- [x] Change Moox Prefab to E-Palette
+
+
+
+
+
+
+
+#### Request to be shared to TBA
+
+1. Use of Filter's like Kalman filter to reduce the noise from the raw data to the gesture nodes.
+   - Gaussian filter may also be incorporated.
+2. 
