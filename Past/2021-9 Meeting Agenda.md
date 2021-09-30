@@ -35,15 +35,9 @@
 
 
 
-
-
-
-
-
-
-
-
 ------
 
-Discussion of MOOX use-case for CES presentation
+### Discussion of MOOX use-case for CES presentation
+
+
 

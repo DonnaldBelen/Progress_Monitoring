@@ -35,3 +35,9 @@
 [2021-09-29&30]
 
 - [ ] Gesture and FaceDirection Testing/Checking
+
+
+
+First cross road, mount fuji
+
+next cross road, tb
